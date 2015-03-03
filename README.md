@@ -1,0 +1,2 @@
+# StarMap
+School project.
